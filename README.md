@@ -4,7 +4,7 @@ A learning project implementing common Unix commands in Rust.
 
 ## Implemented Commands
 
-`echo`, `pwd`, `cat`, `head`, `wc`, `ls`, `mkdir`, `tail`, `tee`, and `cp`.
+`echo`, `pwd`, `cat`, `head`, `wc`, `ls`, `mkdir`, `tail`, `tee`, `cp`, `rm`, `sort`.
 
 Basic functionality is implemented, with more options to be added over time.
 
